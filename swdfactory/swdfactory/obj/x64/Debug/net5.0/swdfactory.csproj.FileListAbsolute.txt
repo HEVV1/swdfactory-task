@@ -1,0 +1,16 @@
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\bin\x64\Debug\net5.0\swdfactory.exe
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\bin\x64\Debug\net5.0\swdfactory.deps.json
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\bin\x64\Debug\net5.0\swdfactory.runtimeconfig.json
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\bin\x64\Debug\net5.0\swdfactory.runtimeconfig.dev.json
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\bin\x64\Debug\net5.0\swdfactory.dll
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\bin\x64\Debug\net5.0\ref\swdfactory.dll
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\bin\x64\Debug\net5.0\swdfactory.pdb
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\swdfactory.csproj.AssemblyReference.cache
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\swdfactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\swdfactory.AssemblyInfoInputs.cache
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\swdfactory.AssemblyInfo.cs
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\swdfactory.csproj.CoreCompileInputs.cache
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\swdfactory.dll
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\ref\swdfactory.dll
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\swdfactory.pdb
+C:\Users\Juris\Documents\Programming\Work\Practical Task\swdfactory-task\swdfactory\swdfactory\obj\x64\Debug\net5.0\swdfactory.genruntimeconfig.cache

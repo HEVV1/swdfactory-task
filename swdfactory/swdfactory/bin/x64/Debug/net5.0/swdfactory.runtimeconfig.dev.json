@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Juris\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Juris\\.nuget\\packages"
+    ]
+  }
+}
